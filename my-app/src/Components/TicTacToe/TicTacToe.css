@@ -24,7 +24,6 @@
   font-size: 22px;
   color: #26ffcb;
   margin-top: 25px;
-  
 }
 
 .boxes {
@@ -46,6 +45,12 @@
   margin: auto;
 }
 
-.boxes img{
-    margin:30px 30px;
+.boxes img {
+  margin: 30px 30px;
+}
+
+.title img {
+  width: 50px;
+  height: 50px;
+  margin: 0;
 }
